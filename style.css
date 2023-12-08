@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar-nav{
+    text-align: right;
+    float: right;
+}
+.nav-link{
+    font-size: 1.125rem;
+    cursor: pointer;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: 400;
+    line-height: 1.6875rem;
+}
+.products{
+    text-align: center;
+    padding: 5% 0rem;
+}
+.products-title{
+    font-size: 2.875rem;
+    font-family: 'Open Sans', sans-serif;
+    margin: bottom 3.125rem;
+    font-weight: 500;
+    line-height: 1.2;
+    box-sizing: border-box;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    text-align: center;
+}
+.inner-product{
+    margin-bottom: 3.125rem;
+}
+.product-name{
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    font-size: 1.5rem;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    margin-top: 1.25rem;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    text-align: center;
+}
+.party{
+    background: #be9509;
+    padding: 1.25rem 0rem;
+    display: block;
+    display: block;
+}
+.container{
+    max-width: 78.125rem;
+    width: 100%;
+    padding-right: 0.9375rem;
+    padding-left: 0.9375rem;
+    margin-right: auto;
+    margin-left: auto;
+}
+.row{
+    margin: 0rem auto;
+}
+footer{
+    background: #000;
+    padding: 1.25rem 0rem;
+}
+.footer-img{
+    width: 9.375rem;
+    margin-bottom: 1.25rem;
+}
+.footer-inner h4{
+    color: #be9509;
+    font-size: 1.125rem;
+    margin-bottom: 0.625rem;
+    text-transform: uppercase;
+}
+.footer-inner ul{
+    padding: 0px;
+    line-height: 1.625rem;
+    list-style: none;
+}
+.footer-inner li a{
+    color: #be9509;
+    font-size: 1.125rem;
+    font-weight: 400;
+    cursor: pointer;
+    text-decoration: none;
+    background-color: transparent;
+}
+.footer-inner p{
+    color: #be9509;
+    font-size: 1.125rem;
+    font-weight: 400;
+}
+.footer-inner span{
+    margin-top:0.625rem;
+    display: inline-block;
+    width: 100%;
+}
+.footer-inner span img{
+    width: 1.875rem;
+    margin-right: 0.315rem;
+}
+.footer-inner img{
+    width: 9.375rem;
+    margin-bottom: 1.25rem;
+}
+.lower-footer{
+    background-color:#000; 
+    border-top:solid 1px #666; 
+    max-height:4.375rem; 
+    margin-left:0rem; 
+    margin-right:0rem; 
+    margin-bottom:0rem; 
+    padding-left:1.25rem; 
+    padding: right 1.25rem;
+    padding-top:1.25rem; 
+    color:#ffc107; 
+    font-size:1rem;
+}
